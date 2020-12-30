@@ -12,4 +12,4 @@ Embora o curso trate sobre todos os principais tipos de teste (unitário, funcio
 
 Com esse foco desenvolvi o PDF presente neste repositório para a atividade final, onde exemplifiquei um cenário geral sobre o caso (com **Storytelling**), Exemplifiquei o cenário testado e desenvolvi as **Estratégias de teste** e os **Projetos de Testes** com suas respectivas análises. 
 
-[Link do PDF](https://github.com/AlvesNelly/USP_Introducao-teste-de-software/blob/main/Atividade_Casos_testes_Coursera-convertido.pdf)
+[Link do PDF.](https://github.com/AlvesNelly/USP_Introducao-teste-de-software/blob/main/Atividade_Casos_testes_Coursera-convertido.pdf)
