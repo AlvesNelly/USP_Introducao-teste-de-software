@@ -1,4 +1,4 @@
-# Curso disponibilizado pela USP na plataforma Coursera
+# Curso disponibilizado pela USP na plataforma Coursera!
 
 ## Objetivo do curso
 
